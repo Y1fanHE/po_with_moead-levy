@@ -88,3 +88,60 @@ The data is included in file ```DATA.tar.gz``` in this repository. After unzip, 
 ├── run.sh ..................................... Run file to do whole experiments
 └── run_unif.py ................................ Run UNIF
 ```
+
+## Figures of Results (Unconstrained)
+
+### Hangseng
+
+- Experiment I
+  - [Convergence Graph](images/hangseng_igd1_paper.svg)
+  - [Population Graph](images/hangseng_pop1_paper.svg)
+  - [Scaled population Graph](images/hangseng_pop1scale_paper.svg)
+- Experiment II
+  - [Convergence Graph](images/hangseng_igd2_paper.svg)
+  - [Population Graph](images/hangseng_pop2_paper.svg)
+  - [Scaled population Graph](images/hangseng_pop2scale_paper.svg)
+
+### DAX 100
+
+- Experiment I
+  - [Convergence Graph](images/dax_igd1_paper.svg)
+  - [Population Graph](images/dax_pop1_paper.svg)
+  - [Scaled population Graph](images/dax_pop1scale_paper.svg)
+- Experiment II
+  - [Convergence Graph](images/dax_igd2_paper.svg)
+  - [Population Graph](images/dax_pop2_paper.svg)
+  - [Scaled population Graph](images/dax_pop2scale_paper.svg)
+
+### FTSE 100
+
+- Experiment I
+  - [Convergence Graph](images/ftse_igd1_paper.svg)
+  - [Population Graph](images/ftse_pop1_paper.svg)
+  - [Scaled population Graph](images/ftse_pop1scale_paper.svg)
+- Experiment II
+  - [Convergence Graph](images/ftse_igd2_paper.svg)
+  - [Population Graph](images/ftse_pop2_paper.svg)
+  - [Scaled population Graph](images/ftse_pop2scale_paper.svg)
+
+### S&P 100
+
+- Experiment I
+  - [Convergence Graph](images/sp_igd1_paper.svg)
+  - [Population Graph](images/sp_pop1_paper.svg)
+  - [Scaled population Graph](images/sp_pop1scale_paper.svg)
+- Experiment II
+  - [Convergence Graph](images/sp_igd2_paper.svg)
+  - [Population Graph](images/sp_pop2_paper.svg)
+  - [Scaled population Graph](images/sp_pop2scale_paper.svg)
+
+### Nikkei
+
+- Experiment I
+  - [Convergence Graph](images/nikkei_igd1_paper.svg)
+  - [Population Graph](images/nikkei_pop1_paper.svg)
+  - [Scaled population Graph](images/nikkei_pop1scale_paper.svg)
+- Experiment II
+  - [Convergence Graph](images/nikkei_igd2_paper.svg)
+  - [Population Graph](images/nikkei_pop2_paper.svg)
+  - [Scaled population Graph](images/nikkei_pop2scale_paper.svg)
